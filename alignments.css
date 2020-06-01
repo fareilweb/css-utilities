@@ -1,0 +1,23 @@
+/*
+ *Vertical Alignment
+ */
+.vertical-middle-container {
+    display: table;
+    height: 100%;
+    margin: 0 auto 0 auto;
+    padding: 0;
+}
+.vertical-middle-content  {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.float-none {
+    float: none;
+}

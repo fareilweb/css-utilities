@@ -1,0 +1,20 @@
+
+/*
+ * Text/Typhography
+ */
+
+.big-text-20 {
+    font-size: 20px;
+}
+.big-text-25 {
+    font-size: 25px;
+}
+.big-text-30 {
+    font-size: 30px;
+}
+.font-italic {
+  font-style: italic;
+}
+.font-bold {
+  font-weight: bold;
+}
